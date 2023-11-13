@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Employee 1",
+    "companyEmployIdExpiryDate": "2024-11-13",
+    "passportExpiryDate": "2025-11-13",
+    "airportPassIdExpiry": "2026-11-13",
+    "licenseExpireDate": "2027-11-13"
+  },
+  {
+    "id": 2,
+    "name": "Employee 2",
+    "companyEmployIdExpiryDate": "2024-11-13",
+    "passportExpiryDate": "2025-11-13",
+    "airportPassIdExpiry": "2026-11-13",
+    "licenseExpireDate": "2027-11-13"
+  }
+]
